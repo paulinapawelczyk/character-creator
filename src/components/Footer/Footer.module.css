@@ -6,3 +6,11 @@
   text-align: center;
 }
 
+.footer a {
+  color: #fff;
+}
+
+.footer a:hover,
+.footer a:active {
+  color: rgb(163, 220, 220);
+}
